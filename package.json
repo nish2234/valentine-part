@@ -1,0 +1,26 @@
+{
+  "name": "valentine-part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nish2234/valentine-part.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nish2234/valentine-part/issues"
+  },
+  "homepage": "https://github.com/nish2234/valentine-part#readme",
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "vite": "^7.3.1"
+  }
+}
